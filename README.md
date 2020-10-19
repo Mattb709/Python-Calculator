@@ -1,2 +1,2 @@
 # Python-Calculator
-A simple console based python calculator
+A simple console based calculator
